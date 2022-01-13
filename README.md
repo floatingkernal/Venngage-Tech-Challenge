@@ -2,7 +2,7 @@
 
 [Live Demo](https://salmansharif.me/Venngage-Tech-Challenge/)
 
-[Video Demo](Placeholder)
+[Video Demo](https://github.com/floatingkernal/Venngage-Tech-Challenge/blob/master/VideoDemo.mov)
 
 ### What I have done
 
