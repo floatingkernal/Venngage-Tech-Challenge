@@ -1,6 +1,6 @@
 # Vennage Alignment Technical Challenge
 
-[Live Demo](Placeholder)
+[Live Demo](https://salmansharif.me/Venngage-Tech-Challenge/)
 
 [Video Demo](Placeholder)
 
